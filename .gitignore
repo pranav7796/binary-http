@@ -1,0 +1,3 @@
+*.o
+/bserve
+/bcurl
